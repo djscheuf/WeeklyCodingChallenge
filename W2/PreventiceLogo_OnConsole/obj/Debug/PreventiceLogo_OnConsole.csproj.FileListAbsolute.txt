@@ -1,0 +1,6 @@
+C:\_Source\Local\PreventiceLogo_OnConsole\PreventiceLogo_OnConsole\bin\Debug\PreventiceLogo_OnConsole.exe.config
+C:\_Source\Local\PreventiceLogo_OnConsole\PreventiceLogo_OnConsole\obj\Debug\PreventiceLogo_OnConsole.csprojResolveAssemblyReference.cache
+C:\_Source\Local\PreventiceLogo_OnConsole\PreventiceLogo_OnConsole\bin\Debug\PreventiceLogo_OnConsole.exe
+C:\_Source\Local\PreventiceLogo_OnConsole\PreventiceLogo_OnConsole\bin\Debug\PreventiceLogo_OnConsole.pdb
+C:\_Source\Local\PreventiceLogo_OnConsole\PreventiceLogo_OnConsole\obj\Debug\PreventiceLogo_OnConsole.exe
+C:\_Source\Local\PreventiceLogo_OnConsole\PreventiceLogo_OnConsole\obj\Debug\PreventiceLogo_OnConsole.pdb

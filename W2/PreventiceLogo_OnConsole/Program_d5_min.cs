@@ -1,0 +1,1 @@
+﻿using System.Runtime.InteropServices;class P{[DllImport("user32.dll", SetLastError = true)]static extern bool LockWorkStation();static void Main(){LockWorkStation();}}
